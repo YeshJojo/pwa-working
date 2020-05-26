@@ -1,0 +1,7 @@
+{
+	"animals":{
+		"cat": "tom",
+		"mice": "jerry"
+	},
+	"type": "animals"
+}

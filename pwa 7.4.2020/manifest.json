@@ -1,0 +1,10 @@
+{
+    "name": "Fetch API",
+    "short_name": "fetch",
+    "description": "Fetch data application",
+    "start_url": "/",
+    
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "fullscreen"
+  }
